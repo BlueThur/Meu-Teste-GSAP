@@ -1,0 +1,9 @@
+body{
+    background: #111;
+}
+
+.caixa{
+    width: 100px;
+    height: 100px;
+    background: royalblue;
+}
