@@ -7,3 +7,16 @@ body{
     height: 100px;
     background: royalblue;
 }
+
+.circulo{
+    width: 100px;
+    height: 100px;
+    background:darkorchid;
+    border-radius: 50%;
+    font-size: 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: white;
+    font-family: sans-serif;
+}
